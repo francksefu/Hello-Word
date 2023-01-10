@@ -24,7 +24,7 @@
 - 
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [your_project_name] <a name="about-project">Hello Word</a>
+# 📖  <a name="about-project">Hello Word</a>
 > In this project we wanna just great personne who will see our page  We call this project Greating We built this project just by using html and css
 Hello Word is an exercise 
 ## 🛠 Built With <a name="built-with">Visual studio</a>
