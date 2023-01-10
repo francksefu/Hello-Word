@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
-
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+  <h3><b>Microverse README Template</b></h3>
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -8,7 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
- 
+ - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -21,13 +26,13 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- 
+- - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖  <a name="about-project">Hello Word</a>
+# 📖 <a name="about-project">Hello Word</a>
 > In this project we wanna just great personne who will see our page  We call this project Greating We built this project just by using html and css
 Hello Word is an exercise 
-## 🛠 Built With <a name="built-with">Visual studio</a>
+## 🛠 Built With <a name="built-with">HTML, CSS and Linter</a>
 ### Tech Stack <a name="tech-stack"></a>
 > In this project we use just one page html and his document css to make it pretty
 <details>
@@ -42,10 +47,14 @@ Hello Word is an exercise
 <!-- Features -->
 ### Key Features <a name="key-features">Hello Microverse</a>
 > We have just one title :
-- Hello Microverse
+- Add the HTML for the structure of the project and Add the heading hello microverse
 
+<!-- LIVE DEMO -->
+## 🚀 Live Demo <a name="live-demo"></a>
+> 
+- [Live Demo Link](Coming soon...)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🚀 Live Demo <a name="live-demo"></a>
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -89,5 +98,9 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 > I wanna give thank to Microverse
-
+<!-- LICENSE -->
+## 📝 License <a name="license"></a>
+This project is [MIT](./LICENSE) licensed.
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
