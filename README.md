@@ -89,7 +89,7 @@ To run the project, open the html folder in your navigator
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SUPPORT -->
 ## ⭐️ Show your support <a name="support"></a>
