@@ -101,7 +101,7 @@ Contributions, issues, and feature requests are welcome!
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
